@@ -1,5 +1,5 @@
-# DataAnalysisRecipees
+# Data Analysis Recipes
 
 Cédric Campguilhem
 
-Recipees for data analysis
+Recipes for data analysis
